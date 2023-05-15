@@ -21,3 +21,11 @@ The Virtual Assistant for Recommending and Selling Products is developed by a te
 - Seamless purchasing process, allowing users to make transactions within the assistant.
 - Integration with popular e-commerce platforms for product data.
 - Natural language processing for user interactions and queries.
+
+
+##Usage
+
+
+- Start the virtual assistant with a local server
+- Open your web browser and navigate to http://localhost:3000 or the specified URL provided by the console.
+- Interact with the virtual assistant through the user interface.
